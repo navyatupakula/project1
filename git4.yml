@@ -1,5 +1,4 @@
-aws
-status
+cube
 ---
 - name: Play to create a group and then user
   hosts: devops
