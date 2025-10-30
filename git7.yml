@@ -1,6 +1,5 @@
-bbccc
-b
-abc
+one
+
 ---
 - name: demonstrate file module
   hosts: localhost
