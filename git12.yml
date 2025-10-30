@@ -1,0 +1,13 @@
+---
+- name: Demonstrate lineinfile - example5 - insert line after pattern match
+  hosts: localhost
+  become: true
+
+  tasks:
+    - name: Insert line after the first line that matches "Likitha"
+      ansible.builtin.lineinfile:
+        path: /home/ansible/playbook/names.txt
+        line: "Mahesh"
+        insertafter: '^Likitha'
+...
+# End
