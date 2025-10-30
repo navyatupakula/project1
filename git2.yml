@@ -1,4 +1,5 @@
 git
+hub
 ---
 - name: Play to Install httpd package
   hosts: sapadm
