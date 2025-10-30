@@ -1,5 +1,6 @@
 git
 ---
+uniform
 - name: Play to Install httpd package
   hosts: sapadm
   become: true
