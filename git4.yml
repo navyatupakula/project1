@@ -1,10 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 devops
 
 =======
 aws
 status
->>>>>>> feature01
+cube
 ---
 - name: Play to create a group and then user
   hosts: devops

@@ -1,5 +1,7 @@
----
-- name: Demonstrate lininfile - example2
+rectangle
+---ellipse
+
+f name: Demonstrate lininfile - example2
   hosts: localhost 
   become: true
   tasks:
