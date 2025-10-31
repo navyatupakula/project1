@@ -1,3 +1,4 @@
+merge
 ---
 - name: Demonstrate lineinfile - example5 - insert line after pattern match
   hosts: localhost
