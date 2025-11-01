@@ -1,0 +1,12 @@
+---
+- name: Demonstrate lineinfile - example5 - insert line after the pattern match.
+  hosts: localhost
+  become: true
+  tasks:
+  - name: insert line after the match 
+    lineinfile:
+      path: /home/ansible/playbook/names.txt
+      line: "Mahesh is here"
+      insertbefore: ^likitha
+...
+# End
