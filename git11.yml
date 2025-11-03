@@ -1,6 +1,4 @@
-rectangle
----ellipse
-
+hydrogen
 f name: Demonstrate lininfile - example2
   hosts: localhost 
   become: true
