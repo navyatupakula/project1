@@ -1,4 +1,6 @@
-git bash>>>>>>> main
+git bash
+hashcode
+>>>>>>> main
 - name: Play to Install httpd package
   hosts: sapadm
   become: true
