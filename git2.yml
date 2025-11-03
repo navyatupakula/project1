@@ -1,8 +1,7 @@
 git
 hub
-france
 ---
-uniform
+>>>>>>> main
 - name: Play to Install httpd package
   hosts: sapadm
   become: true
