@@ -1,4 +1,4 @@
----
+--cute-
 - name: Demonstrate lineinfile - example5 - insert line after the pattern match.
   hosts: localhost
   become: true
