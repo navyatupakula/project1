@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-devops
-
-=======
-aws
-status
-cube
+vijaya
 ---
 - name: Play to create a group and then user
   hosts: devops
