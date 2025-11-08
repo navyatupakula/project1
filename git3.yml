@@ -1,5 +1,6 @@
 square
 circle
+box
 ---
 - name: My First Playbook
   hosts: devops
