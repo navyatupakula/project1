@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-feature
-=======
-volume
->>>>>>> feature01
-
+iyes
 - name: Create a volume group using pv /dev/sdh
   hosts: localhost
   become: true

@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 hydrogen
 f name: Demonstrate lininfile - example2
+=======
+friend
+ name: Demonstrate lininfile - example2
+>>>>>>> feature01
   hosts: localhost 
   become: true
   tasks:
