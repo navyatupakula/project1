@@ -1,4 +1,4 @@
-nine
+kine
 ---
 - name: Demonstrate ansible variables
   hosts: localhost 
