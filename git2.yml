@@ -1,6 +1,5 @@
-git bash
-hashcode
->>>>>>> main
+loukik
+main
 - name: Play to Install httpd package
   hosts: sapadm
   become: true
