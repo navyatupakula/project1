@@ -1,4 +1,6 @@
 insert
+firewall
+amazon
 # A single playbook can contain multiple plays.
 # Below demonstrate the same
 
