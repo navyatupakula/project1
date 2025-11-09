@@ -1,4 +1,4 @@
-ggg
+mouse
 ---
 - name: Demonstrate ansible variables
   hosts: localhost
