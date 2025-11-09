@@ -1,4 +1,6 @@
 mouse
+=======
+laptop
 ---
 - name: Demonstrate ansible variables
   hosts: localhost
