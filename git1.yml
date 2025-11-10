@@ -1,5 +1,6 @@
 who
 what
+how
 - name: Create a volume group using pv /dev/sdh
   hosts: localhost
   become: true
@@ -29,6 +30,7 @@ what
         path: /logsfs 
         src: /dev/logsvg/loglv01
         fstype: xfs 
-        state: mounted 
+   
+  state: mounted 
 ...
 #End
