@@ -1,11 +1,12 @@
-add  
+add
+substraction 
 hosts: localhost
   become: true
   tasks:
   - name: insert line after the match 
     lineinfile:
       path: /home/ansible/playbook/names.txt
-      line: "Mahesh is here"
+      line: "Mahesh is here" 
       insertbefore: ^likitha
-...
+... 
 # End
