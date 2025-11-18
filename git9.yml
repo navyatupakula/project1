@@ -1,5 +1,6 @@
 kine
----
+--- umbrella
+palace
 - name: Demonstrate ansible variables
   hosts: localhost 
   vars: 

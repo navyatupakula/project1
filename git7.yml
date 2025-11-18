@@ -1,6 +1,3 @@
-one
-two
----
 - name: demonstrate file module
   hosts: localhost
   become: true 
